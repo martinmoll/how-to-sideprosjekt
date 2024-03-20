@@ -16,6 +16,7 @@ export default function Home() {
         <li>Mann</li>
         <li>203cm på en god dag</li>
         <li>Får pungslepp hvis det er +25 Celsius ute</li>
+        <li>3 beer Andy</li>
       </ol>
       
     </main>
