@@ -19,8 +19,8 @@ Vær kreativ! Legg til så mye du vil. Jo mer du legger til, jo mer lærer du. O
 export default function Home() {
   return (
     <div>
-      <h1>Hei, jeg heter [ditt navn]!</h1>
-      <p>Jeg studerer [studie] på Universitetet i Bergen.</p>
+      <h1>Dette er meg, selveste Martin Møllenhus.</h1>
+      <p>Jeg studerer IMØ!!!! på Universitetet i Bergen.</p>
     </div>
   );
 }
