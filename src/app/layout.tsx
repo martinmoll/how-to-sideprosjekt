@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Navigation } from "./components/navigation";
 
 export const metadata: Metadata = {
   title: "How to sideprosjekt",
@@ -13,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="no">
       <body>
-        {/* <Navigation /> */}
+        <Navigation/>
         {children}
       </body>
     </html>
